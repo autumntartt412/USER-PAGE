@@ -1,0 +1,101 @@
+
+body {
+    background-color: yellow;
+    
+
+}
+.navbar {
+display: flex;
+
+}
+
+h1{
+    font-size: x-large;
+    display: flex;
+    justify-content: center;
+    font-weight: bolder;
+    background-color: aliceblue;
+    padding: 30px;
+}
+form 
+{
+    border: 15px solid black;
+    padding: 50px;
+}
+
+h2 {
+    font-size: large;
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    background-color: aliceblue;
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+    /* text-align: center;    */
+}
+
+.navbar {
+    border: 5px solid blue;
+    display: flex;
+    align-content: space-between;
+    
+}
+
+
+
+main {
+    border: 20px solid red;
+    display: flex;
+   justify-content: center;  
+   align-items: top;
+    padding: 30px;
+    flex-direction: row;
+}
+
+.table {
+    border: 5px solid blue;
+    font-weight: bold;
+}
+
+.cards {
+    border: 30px solid;
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    
+}
+
+.card {
+   display: flex;
+   justify-content: space-around;
+    padding: 10px;
+    background-color: aliceblue;
+    border: 25px solid black;
+     font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+   
+}
+
+.card-text {
+    color: black;
+    text-align: center;
+}
+
+.img {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    border: 20px solid;
+  }
+
+.card-title {
+    color: gold;
+}
+
+
+.footer {
+    border-radius: 5px solid blue;
+}
